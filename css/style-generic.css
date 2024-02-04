@@ -1,0 +1,110 @@
+.generic-banner {
+    font-family: "Poppins", sans-serif;
+    line-height: 1.625em;
+    display: block;
+    position: relative;
+    margin-top: 60px;
+    background-color: #3898f8;
+    text-align: center;
+
+}
+
+.generic-banner h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    margin-top: 300px;
+}
+
+.generic-banner p {
+    margin-bottom: 300px;
+}
+
+.single-service {
+    margin: 5px;
+}
+
+.single-service:hover {
+    background-color: dodgerblue;
+}
+
+.section-gap {
+    margin-top: 50px;
+}
+
+.about-generic-area {
+    background-color: #fff;
+}
+
+.about-title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+footer {
+    text-align: left;
+    background-color: #222222;
+    color: #777777;
+    width: 100%;
+    padding-top: 100px;
+    display: block;
+    padding: 120px 0;
+}
+
+
+
+.single-footer-widget {
+    color: #fff;
+    /* margin-bottom: 30px; */
+    font-size: 20px;
+}
+
+
+.footer-nav li {
+    text-align: left;
+    color: white;
+    list-style: none;
+}
+
+.footer-nav a {
+    margin-top: 8px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nw-btn {
+    background-color: #3898f8;
+    padding-left: 30px;
+    padding-right: 60px;
+    border-radius: 25px;
+    border: none;
+    color: #fff;
+    display: inline-block;
+    font-weight: 500;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.mail-chimp {
+
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: #fff;
+    margin-bottom: 30px;
+    text-align: left;
+
+}
+
+.instafeed {
+    list-style: none;
+    line-height: 1.625em;
+}
+
+.footer-social {
+    color: white;
+    background-color: #333;
+    padding: 20px;
+    margin: 5px;
+}
